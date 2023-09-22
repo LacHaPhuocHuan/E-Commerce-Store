@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.huancoder</groupId>
-	<artifactId>OnilneMarketPlace</artifactId>
+	<artifactId>E-Commerce-Store</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>E-Commerce-Store</name>
 	<description>Demo project for Spring Boot</description>
